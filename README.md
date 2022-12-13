@@ -9,26 +9,12 @@ application basée sur une architecture micro-service qui permet de gérer les f
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/Capture1.png" alt="Logo" width="80" height="80">
   </a>
-  <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+  
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -93,8 +79,7 @@ application basée sur une architecture micro-service qui permet de gérer les f
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![3](https://user-images.githubusercontent.com/97169668/207427247-d51edb9f-035b-466b-856d-dccb99cb292b.PNG)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -133,6 +118,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+![1](https://user-images.githubusercontent.com/97169668/207427133-57c0b81a-0b9e-425c-a25b-a62e53082919.PNG)
+![2](https://user-images.githubusercontent.com/97169668/207427160-33383348-ce0a-40b3-9901-c133edf5ac2e.PNG)
 
 ### Prerequisites
 
