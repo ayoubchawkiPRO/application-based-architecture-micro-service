@@ -73,19 +73,8 @@ application basée sur une architecture micro-service qui permet de gérer les f
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
+    <li><a href="https://www.h2database.org/">PostgreSQL</a></li>
 
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
   </ul>
 </details>
 
@@ -115,13 +104,13 @@ To run this project, you will need to add the following environment variables to
 `API_KEY`
 ANOTHER_API_KEY
  <div>
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/ayoubchawkiPRO/application-based-architecture-micro-service">
     <img src="images/1.png" alt="Logo" width="80" height="80">
   </a>
-   <a href="https://github.com/othneildrew/Best-README-Template">
+   <a href="https://github.com/ayoubchawkiPRO/application-based-architecture-micro-service">
     <img src="images/2.png" alt="Logo" width="80" height="80">
   </a>
-   <a href="https://github.com/othneildrew/Best-README-Template">
+   <a href="https://github.com/ayoubchawkiPRO/application-based-architecture-micro-service">
     <img src="images/Capture27.png" alt="Logo" width="80" height="80">
   </a>
-   
+   </div>
