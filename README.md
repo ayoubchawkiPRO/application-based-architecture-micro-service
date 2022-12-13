@@ -6,7 +6,7 @@ application basée sur une architecture micro-service qui permet de gérer les f
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/27.png" alt="Logo" width="80" height="80">
   </a>
-  
+  </div>
  <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
