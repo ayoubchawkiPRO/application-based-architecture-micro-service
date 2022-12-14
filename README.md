@@ -165,7 +165,6 @@ GET /localhost:8761/
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427709-dd15b317-38b4-4a91-932a-0516360a582f.png)
 
 # II. Frontend Angular Client :
-![Capture21](https://user-images.githubusercontent.com/97169668/207427798-616942d9-2a73-4aed-a62f-57a58d8c4015.png)
 ![Capture12](https://user-images.githubusercontent.com/97169668/207427642-d3ef4722-6bc5-4195-88e2-3633f2a1091b.PNG)
 Login screen
 ![Captjijure](https://user-images.githubusercontent.com/97169668/207427818-29b7fac0-b763-4f90-906e-91c4fb30dc5f.PNG)
@@ -184,6 +183,26 @@ Login screen
 ![Capturefdfd](https://user-images.githubusercontent.com/97169668/207427939-fb8293ca-672d-49a3-a415-43f809b95d6e.PNG)
 
 ![Capturefvf](https://user-images.githubusercontent.com/97169668/207427944-128880eb-dc02-4da5-9191-241aed38435c.PNG)
+
+# III Secured Angular Client with keycloak 
+Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+## 1 Setup
+![Capture28](https://user-images.githubusercontent.com/97169668/207484726-9ee9ebda-054c-408f-9d86-2746e41555e0.PNG)
+![Capture29](https://user-images.githubusercontent.com/97169668/207484799-4bd8da7c-f4da-4f67-b9b5-fd1447315d45.PNG)
+![Capture30](https://user-images.githubusercontent.com/97169668/207484841-f888fc73-62e9-4ad3-8ddf-8350d204917d.PNG)
+![image](https://user-images.githubusercontent.com/97169668/207484910-8c28722f-8ee7-430f-ac96-72f0aac3530e.png)
+![image](https://user-images.githubusercontent.com/97169668/207485040-ed53cd3c-ca93-4d37-b6c1-0f2d9a4a5029.png)
+![image](https://user-images.githubusercontent.com/97169668/207485203-084b830c-e24a-477a-8f72-e3884da777c1.png)
+![image](https://user-images.githubusercontent.com/97169668/207485254-aa72f484-4dfc-481d-a972-2d6f1b4f0c17.png)
+
+
+## 2 Postman
+![image](https://user-images.githubusercontent.com/97169668/207485368-8b06a0dc-b20a-4d69-8cc6-e5fc44a4818e.png)
+![image](https://user-images.githubusercontent.com/97169668/207485486-56a7e099-ad40-43ad-bc73-c008b5828548.png)
+
+
+## 4 Client Auth Credentials
+![image](https://user-images.githubusercontent.com/97169668/207485486-56a7e099-ad40-43ad-bc73-c008b5828548.png)
 
 ### Installation
 
