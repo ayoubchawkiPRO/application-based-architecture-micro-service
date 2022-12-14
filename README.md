@@ -64,7 +64,7 @@ application-based-architecture-micro-service!
   * [4 Customer Service - get All Customers](#4-customer-service---get-all-customers)
   * [5 Customer Service - get Customer by ID](#5-customer-service---get-customer-by-id)
   * [6 Bill Service - get bills](#6-bill-service---get-bills)
-  * [7 Bill Service - get bill by id](#7-bill-service---get-bill-by-id)
+  * [7 Gateway](#7Gateway)
   * [8 Eureka Service](#8-eureka-service)
 # II. Frontend Angular Client :
   * [Login screen](#login-screen)
@@ -161,6 +161,8 @@ GET /localhost:8761/
 
 ![Capture20](https://user-images.githubusercontent.com/97169668/207427691-4ecdcaff-9689-44fd-9d0d-061f6c0cb22e.PNG)
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427700-ac0e9596-3257-4ccc-a349-9b1927d01027.jpeg)
+## Bills
+## Show Bills  
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427709-dd15b317-38b4-4a91-932a-0516360a582f.png)
 
 # II. Frontend Angular Client :
