@@ -1,25 +1,10 @@
 # application-based-architecture-micro-service
-<img
-  src="images/3.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 Activité Pratique du Contrôle
 application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
 <br />
 <div align="center">
-  <a >
-    <img src="images/3.png" alt="Logo" width="80" height="80">
-  </a>
-  <img src="images/3.png" alt="Logo" width="80" height="80">
-  <img
-  src="images/3.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+ ![3](https://user-images.githubusercontent.com/97169668/207480973-10c8afea-fad4-4d98-8ff8-94a720fc4582.PNG)
 <a name="readme-top"></a>
-
-
 
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -30,13 +15,12 @@ application basée sur une architecture micro-service qui permet de gérer les f
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center"> application-based-architecture-micro-service</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+application-based-architecture-micro-service!
     <br />
     <a href="https://github.com/ayoubchawkiPRO/application-based-architecture-micro-service/tree/master"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,7 +59,7 @@ application basée sur une architecture micro-service qui permet de gérer les f
 </details>
 
 # I. Backend :
-  * [1. about-the-project](#1-about-the-project)
+  * [1. about-the-project](#about-the-project)
   * [2 Inventory service - get all products](#2-inventory-service---get-all-products)
   * [3 Inventory service - get product by ID](#3-inventory-service---get-product-by-id)
   * [4 Customer Service - get All Customers](#4-customer-service---get-all-customers)
