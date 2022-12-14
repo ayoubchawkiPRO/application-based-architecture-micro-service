@@ -133,42 +133,54 @@ This is an example of how to list things you need to use the software and how to
 ![Capture5](https://user-images.githubusercontent.com/97169668/207427595-f0c89585-3b6e-49b9-b35d-740b6fcd8622.PNG)
 ![Capture13](https://user-images.githubusercontent.com/97169668/207427646-c86bfc79-8135-4ac3-930f-9244cab9d71c.PNG)
 ![Capture2](https://user-images.githubusercontent.com/97169668/207427574-ef9fbcd5-3077-49cf-96c4-c4c005821e4f.PNG)
-
+![Capture18](https://user-images.githubusercontent.com/97169668/207427674-9a68d992-23cc-470f-b585-3053fc69e738.PNG)
 
 ![Capture3](https://user-images.githubusercontent.com/97169668/207427580-20b5a8a5-b710-4f77-95c0-b4ec13fca826.PNG)
 ![Capture4](https://user-images.githubusercontent.com/97169668/207427591-4f8167a5-4d5f-422b-8d20-b69eb807ea14.PNG)
-
+## 5 Customer Service - get Customer by ID
+![Capture19](https://user-images.githubusercontent.com/97169668/207427682-6e834b23-3eba-4b3d-918c-ce16836bf73a.PNG)
 ## 2 Inventory service - get all products
-![Capture10](https://user-images.githubusercontent.com/97169668/207427635-05c2fee3-94cd-4782-897a-29fc1acf1bcb.PNG)
 ![Capture6](https://user-images.githubusercontent.com/97169668/207427607-904fe10a-6edc-4b70-9758-ea9e654e0e0a.PNG)
+![Capture10](https://user-images.githubusercontent.com/97169668/207427635-05c2fee3-94cd-4782-897a-29fc1acf1bcb.PNG)
 ![Capture7](https://user-images.githubusercontent.com/97169668/207427617-414002f9-5b06-4890-9549-72e45a625e47.PNG)
 ![Capture8](https://user-images.githubusercontent.com/97169668/207427622-46cf135e-a0f8-425e-8c3f-ca76076ba5d6.PNG)
-![Capture16](https://user-images.githubusercontent.com/97169668/207427659-7bf0ea58-ba21-410e-a637-14d5f79a7a43.PNG)
+## 3 Inventory service - get product by ID 
 ![Capture17](https://user-images.githubusercontent.com/97169668/207427669-3bbd8202-237e-476d-86cc-72531738830e.PNG)
-![Capture18](https://user-images.githubusercontent.com/97169668/207427674-9a68d992-23cc-470f-b585-3053fc69e738.PNG)
-![Capture19](https://user-images.githubusercontent.com/97169668/207427682-6e834b23-3eba-4b3d-918c-ce16836bf73a.PNG)
+
+
 ## 8 Eureka Service 
 ```http
 GET /localhost:8761/
 ```
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427788-20e752a3-7a51-46da-a248-029ccfc2f794.png)
 
-![Capture12](https://user-images.githubusercontent.com/97169668/207427642-d3ef4722-6bc5-4195-88e2-3633f2a1091b.PNG)
+
 ## 7 Bill Service - get bill by id
 ![Capture15](https://user-images.githubusercontent.com/97169668/207427654-428a86da-2d76-4551-b08d-1fb88aa099dd.PNG)
-
+![Capture16](https://user-images.githubusercontent.com/97169668/207427659-7bf0ea58-ba21-410e-a637-14d5f79a7a43.PNG)
 
 ![Capture20](https://user-images.githubusercontent.com/97169668/207427691-4ecdcaff-9689-44fd-9d0d-061f6c0cb22e.PNG)
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427700-ac0e9596-3257-4ccc-a349-9b1927d01027.jpeg)
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427709-dd15b317-38b4-4a91-932a-0516360a582f.png)
+
+# II. Frontend Angular Client :
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427798-616942d9-2a73-4aed-a62f-57a58d8c4015.png)
+![Capture12](https://user-images.githubusercontent.com/97169668/207427642-d3ef4722-6bc5-4195-88e2-3633f2a1091b.PNG)
+Login screen
 ![Captjijure](https://user-images.githubusercontent.com/97169668/207427818-29b7fac0-b763-4f90-906e-91c4fb30dc5f.PNG)
+## Products
+## 1 Show all products 
 ![Capture24](https://user-images.githubusercontent.com/97169668/207427845-f5c435bf-bc62-476e-b135-4f753206d564.PNG)
-![Capture57](https://user-images.githubusercontent.com/97169668/207427885-1badbf70-d91d-467d-aaca-41a3f776474a.PNG)
+## 5 New Product
 ![Capture76](https://user-images.githubusercontent.com/97169668/207427897-7dad4eac-8d3e-4838-b31c-79bedc536263.PNG)
+## 2 Edit products 
+![Capture57](https://user-images.githubusercontent.com/97169668/207427885-1badbf70-d91d-467d-aaca-41a3f776474a.PNG)
+## 3 Delete products 
+## 4 Search for a product
 ![CaptureFD](https://user-images.githubusercontent.com/97169668/207427901-ed54b0d2-e156-4d95-ac4d-12501abc11a6.PNG)
 ![27](https://user-images.githubusercontent.com/97169668/207427931-c9e694bf-0fd4-47bc-9bc2-866276ce35c6.png)
 ![Capturefdfd](https://user-images.githubusercontent.com/97169668/207427939-fb8293ca-672d-49a3-a415-43f809b95d6e.PNG)
+
 ![Capturefvf](https://user-images.githubusercontent.com/97169668/207427944-128880eb-dc02-4da5-9191-241aed38435c.PNG)
 
 ### Installation
