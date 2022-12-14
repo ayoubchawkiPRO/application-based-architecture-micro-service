@@ -130,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-## 4 Customer Service - get All Customers
+## 1 Customer Service - get All Customers
 ![Capture5](https://user-images.githubusercontent.com/97169668/207427595-f0c89585-3b6e-49b9-b35d-740b6fcd8622.PNG)
 ![Capture13](https://user-images.githubusercontent.com/97169668/207427646-c86bfc79-8135-4ac3-930f-9244cab9d71c.PNG)
 ![Capture2](https://user-images.githubusercontent.com/97169668/207427574-ef9fbcd5-3077-49cf-96c4-c4c005821e4f.PNG)
@@ -138,9 +138,9 @@ This is an example of how to list things you need to use the software and how to
 
 ![Capture3](https://user-images.githubusercontent.com/97169668/207427580-20b5a8a5-b710-4f77-95c0-b4ec13fca826.PNG)
 ![Capture4](https://user-images.githubusercontent.com/97169668/207427591-4f8167a5-4d5f-422b-8d20-b69eb807ea14.PNG)
-## 5 Customer Service - get Customer by ID
+## 2 Customer Service - get Customer by ID
 ![Capture19](https://user-images.githubusercontent.com/97169668/207427682-6e834b23-3eba-4b3d-918c-ce16836bf73a.PNG)
-## 2 Inventory service - get all products
+## 3 Inventory service - get all products
 ![Capture6](https://user-images.githubusercontent.com/97169668/207427607-904fe10a-6edc-4b70-9758-ea9e654e0e0a.PNG)
 ![Capture10](https://user-images.githubusercontent.com/97169668/207427635-05c2fee3-94cd-4782-897a-29fc1acf1bcb.PNG)
 ![Capture7](https://user-images.githubusercontent.com/97169668/207427617-414002f9-5b06-4890-9549-72e45a625e47.PNG)
