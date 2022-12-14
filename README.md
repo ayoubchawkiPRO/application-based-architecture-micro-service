@@ -4,7 +4,7 @@ application basée sur une architecture micro-service qui permet de gérer les f
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/27.png" alt="Logo" width="80" height="80">
+    <img src="images/3.png" alt="Logo" width="80" height="80">
   </a>
 <a name="readme-top"></a>
 
