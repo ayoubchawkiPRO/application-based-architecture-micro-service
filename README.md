@@ -85,9 +85,8 @@ application-based-architecture-micro-service!
 # III Secured Angular Client with keycloak
   * [1 Setup](#1-setup)
   * [2 Postman](#2-postman)
-  * [3 Refresh Token](#3-refresh-token)
-  * [4 Client Auth Credentials](#4-client-auth-credentials)
-  * * [5 gitHub](#5-gitHub)
+  * [3 Client Auth Credentials](#3-client-auth-credentials)
+  * * [4 gitHub](#5-gitHub)
 
 
 
@@ -145,18 +144,18 @@ This is an example of how to list things you need to use the software and how to
 ![Capture10](https://user-images.githubusercontent.com/97169668/207427635-05c2fee3-94cd-4782-897a-29fc1acf1bcb.PNG)
 ![Capture7](https://user-images.githubusercontent.com/97169668/207427617-414002f9-5b06-4890-9549-72e45a625e47.PNG)
 ![Capture8](https://user-images.githubusercontent.com/97169668/207427622-46cf135e-a0f8-425e-8c3f-ca76076ba5d6.PNG)
-## 3 Inventory service - get product by ID 
+## 4 Inventory service - get product by ID 
 ![Capture17](https://user-images.githubusercontent.com/97169668/207427669-3bbd8202-237e-476d-86cc-72531738830e.PNG)
 
 
-## 8 Eureka Service 
+## 5 Eureka Service 
 ```http
 GET /localhost:8761/
 ```
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427788-20e752a3-7a51-46da-a248-029ccfc2f794.png)
 
 
-## 7 Bill Service - get bill by id
+## 6 Gateway
 ![Capture15](https://user-images.githubusercontent.com/97169668/207427654-428a86da-2d76-4551-b08d-1fb88aa099dd.PNG)
 ![Capture16](https://user-images.githubusercontent.com/97169668/207427659-7bf0ea58-ba21-410e-a637-14d5f79a7a43.PNG)
 
@@ -171,18 +170,14 @@ Login screen
 ## Products
 ## 1 Show all products 
 ![Capture24](https://user-images.githubusercontent.com/97169668/207427845-f5c435bf-bc62-476e-b135-4f753206d564.PNG)
-## 5 New Product
+## 2 New Product
 ![Capture76](https://user-images.githubusercontent.com/97169668/207427897-7dad4eac-8d3e-4838-b31c-79bedc536263.PNG)
-## 2 Edit products 
+## 3 Edit products 
 ![Capture57](https://user-images.githubusercontent.com/97169668/207427885-1badbf70-d91d-467d-aaca-41a3f776474a.PNG)
-## 3 Delete products 
-## 4 Search for a product
+## 4 Delete products 
+## 5 Search for a product
 ![CaptureFD](https://user-images.githubusercontent.com/97169668/207427901-ed54b0d2-e156-4d95-ac4d-12501abc11a6.PNG)
 ![27](https://user-images.githubusercontent.com/97169668/207427931-c9e694bf-0fd4-47bc-9bc2-866276ce35c6.png)
-## 5 gitHub
-![Capturefdfd](https://user-images.githubusercontent.com/97169668/207427939-fb8293ca-672d-49a3-a415-43f809b95d6e.PNG)
-
-![Capturefvf](https://user-images.githubusercontent.com/97169668/207427944-128880eb-dc02-4da5-9191-241aed38435c.PNG)
 
 # III Secured Angular Client with keycloak 
 Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
@@ -201,9 +196,12 @@ Sécuriser les micro-services et le frontend angular en déployant les adaptateu
 ![image](https://user-images.githubusercontent.com/97169668/207485486-56a7e099-ad40-43ad-bc73-c008b5828548.png)
 
 
-## 4 Client Auth Credentials
+## 3 Client Auth Credentials
 ![image](https://user-images.githubusercontent.com/97169668/207485486-56a7e099-ad40-43ad-bc73-c008b5828548.png)
+## 4 gitHub
+![Capturefdfd](https://user-images.githubusercontent.com/97169668/207427939-fb8293ca-672d-49a3-a415-43f809b95d6e.PNG)
 
+![Capturefvf](https://user-images.githubusercontent.com/97169668/207427944-128880eb-dc02-4da5-9191-241aed38435c.PNG)
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
@@ -248,7 +246,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ayoubchawkiPRO/application-based-architecture-micro-service) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
