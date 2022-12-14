@@ -3,7 +3,6 @@ Activité Pratique du Contrôle
 application basée sur une architecture micro-service qui permet de gérer les factures contenant des produits et appartenant à un client.
 <br /> ![3](https://user-images.githubusercontent.com/97169668/207480973-10c8afea-fad4-4d98-8ff8-94a720fc4582.PNG)
 <div align="center">
- ![3](https://user-images.githubusercontent.com/97169668/207480973-10c8afea-fad4-4d98-8ff8-94a720fc4582.PNG)
 <a name="readme-top"></a>
 
 
@@ -94,21 +93,14 @@ application-based-architecture-micro-service!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![3](https://user-images.githubusercontent.com/97169668/207427247-d51edb9f-035b-466b-856d-dccb99cb292b.PNG)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
+  USE CASE :
+  ![mcd](https://user-images.githubusercontent.com/97169668/207427919-3d1c1a88-e508-4182-a9b9-36aca8e47805.PNG)
+  
 * You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Use the `README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -137,12 +129,13 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-  ![Capture2](https://user-images.githubusercontent.com/97169668/207427574-ef9fbcd5-3077-49cf-96c4-c4c005821e4f.PNG)
-![mcd](https://user-images.githubusercontent.com/97169668/207427919-3d1c1a88-e508-4182-a9b9-36aca8e47805.PNG)
+## 4 Customer Service - get All Customers
+![Capture5](https://user-images.githubusercontent.com/97169668/207427595-f0c89585-3b6e-49b9-b35d-740b6fcd8622.PNG)
+![Capture2](https://user-images.githubusercontent.com/97169668/207427574-ef9fbcd5-3077-49cf-96c4-c4c005821e4f.PNG)
+
 
 ![Capture3](https://user-images.githubusercontent.com/97169668/207427580-20b5a8a5-b710-4f77-95c0-b4ec13fca826.PNG)
 ![Capture4](https://user-images.githubusercontent.com/97169668/207427591-4f8167a5-4d5f-422b-8d20-b69eb807ea14.PNG)
-![Capture5](https://user-images.githubusercontent.com/97169668/207427595-f0c89585-3b6e-49b9-b35d-740b6fcd8622.PNG)
 ![Capture6](https://user-images.githubusercontent.com/97169668/207427607-904fe10a-6edc-4b70-9758-ea9e654e0e0a.PNG)
 ![Capture7](https://user-images.githubusercontent.com/97169668/207427617-414002f9-5b06-4890-9549-72e45a625e47.PNG)
 ![Capture8](https://user-images.githubusercontent.com/97169668/207427622-46cf135e-a0f8-425e-8c3f-ca76076ba5d6.PNG)
