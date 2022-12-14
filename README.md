@@ -76,10 +76,6 @@ application-based-architecture-micro-service!
   * [5 New Product](#5-new-product)
   ## Customers
   * [1 Show all customer](#1-show-all-customer)
-  * [2 Edit Customer](#2-edit-customer)
-  * [3 Delete Customer](#3-delete-customer)
-  * [4 Search Customer](#4-search-customer)
-  * [5 New Customer](#5-new-customer)
   ## Bills
   * [Show Bills](#show-bills)
 # III Secured Angular Client with keycloak
@@ -166,19 +162,25 @@ GET /localhost:8761/
 ![Capture21](https://user-images.githubusercontent.com/97169668/207427709-dd15b317-38b4-4a91-932a-0516360a582f.png)
 
 # II. Frontend Angular Client :
+![Captjijure](https://user-images.githubusercontent.com/97169668/207427818-29b7fac0-b763-4f90-906e-91c4fb30dc5f.PNG)
 ![Capture12](https://user-images.githubusercontent.com/97169668/207427642-d3ef4722-6bc5-4195-88e2-3633f2a1091b.PNG)
 Login screen
-![Captjijure](https://user-images.githubusercontent.com/97169668/207427818-29b7fac0-b763-4f90-906e-91c4fb30dc5f.PNG)
+![Capture24](https://user-images.githubusercontent.com/97169668/207427845-f5c435bf-bc62-476e-b135-4f753206d564.PNG)
 ## Products
 ## 1 Show all products 
-![Capture24](https://user-images.githubusercontent.com/97169668/207427845-f5c435bf-bc62-476e-b135-4f753206d564.PNG)
-## 2 New Product
-![Capture76](https://user-images.githubusercontent.com/97169668/207427897-7dad4eac-8d3e-4838-b31c-79bedc536263.PNG)
-## 3 Edit products 
 ![Capture57](https://user-images.githubusercontent.com/97169668/207427885-1badbf70-d91d-467d-aaca-41a3f776474a.PNG)
-## 4 Delete products 
-## 5 Search for a product
+## 2 New Product
 ![CaptureFD](https://user-images.githubusercontent.com/97169668/207427901-ed54b0d2-e156-4d95-ac4d-12501abc11a6.PNG)
+## 3 Edit products 
+![Capture76](https://user-images.githubusercontent.com/97169668/207427897-7dad4eac-8d3e-4838-b31c-79bedc536263.PNG)
+## 4 Delete products 
+![image](https://user-images.githubusercontent.com/97169668/207487960-4adacb1b-7c0a-4cf7-9456-c9e2df6061a8.png)
+
+## 5 Search for a product
+![image](https://user-images.githubusercontent.com/97169668/207487888-c2e84b58-6717-4eee-8956-dbac4da98052.png)
+
+## Bills
+## Show Bills  
 ![27](https://user-images.githubusercontent.com/97169668/207427931-c9e694bf-0fd4-47bc-9bc2-866276ce35c6.png)
 
 # III Secured Angular Client with keycloak 
